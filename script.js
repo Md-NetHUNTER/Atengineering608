@@ -23,7 +23,7 @@ window.addEventListener('load', () => {
 
 // Improved WhatsApp function
 function openWhatsApp() {
-  const phoneNumber = "919748671068";
+  const phoneNumber = "919576666110";
   const message = "Hello, I'm interested in your services!";
   
   // Try to open WhatsApp app directly
